@@ -1,4 +1,4 @@
-# AGENT-LINK-001
+# RedEye
 
 import openai
 from colorama import Fore
@@ -10,7 +10,7 @@ import pyfiglet
 import webbrowser
 import time
 
-openai.api_key = "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"
+openai.api_key = ""
 print(pyfiglet.figlet_format("AGENT-LINK-001\n"))
 print(
   "\t\t\t\t\t\t\t\t\t\t\t\t\t\t(99 -> Exit)\t\t\t(98 -> Guidence)\t\t (97 -> More Commands)"
